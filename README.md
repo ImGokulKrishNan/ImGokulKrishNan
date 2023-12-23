@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul Krish Nan</h1>
-<h3 align="center">Data Analyst | ETL Testing | Power Bi Developer </h3>
+<h3 align="center">Data Analyst | ETL Testing | Power Bi Developer | Java | Python Developer </h3>
 
 - 🌱 I’m currently learning **Data Analyst**
 
