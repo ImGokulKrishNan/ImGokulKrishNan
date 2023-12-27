@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Analyst**
 
-- 💬 Ask me about **Power Bi**
+- 💬 Ask me about **Power Bi , ETL Testing , Data Analysis** 
 
 - 📫 How to reach me **Gokulkrishnanpv@outlook.com**
 
