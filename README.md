@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokul Krish Nan</h1>
 <h3 align="center"> ETL Testing | Data Engineer | Power Bi Developer | Java | Python </h3>
 
-- 🌱 I’m currently learning **Data Analyst**
-
-- 💬 Ask me about **Power Bi , ETL Testing , Data Analysis** 
-
 - 📫 How to reach me **Gokulkrishnanpv@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
