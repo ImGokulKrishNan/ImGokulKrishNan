@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul Krish Nan</h1>
-<h3 align="center"> ETL Testing | Data Engineer | Power Bi Developer | Java | Python </h3>
+<h3 align="center"> Java Developer | ETL Testing | Data Engineer | Power Bi Developer |  | Python </h3>
 
 - 📫 How to reach me **Gokulkrishnanpv@outlook.com**
 
