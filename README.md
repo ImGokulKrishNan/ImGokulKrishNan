@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokul Krish Nan</h1>
 <h3 align="center"> Java Developer | ETL Testing | Data Engineer | Power Bi Developer | Python </h3>
 
-- 📫 How to reach me **Gokulkrishnanpv@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gknn" height="30" width="40" /></a>
