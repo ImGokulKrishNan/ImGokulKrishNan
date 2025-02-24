@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul Krish Nan</h1>
-<h3 align="center"> Java Developer | ETL Testing | Data Engineer | Power Bi Developer | Python Developer </h3>
+<h3 align="center"> Software Engineer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
